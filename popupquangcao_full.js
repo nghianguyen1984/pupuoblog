@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://thicongkaraokevip.blogspot.com/2015/11/thi-cong-thiet-ke-karaoke-chuyen-nghiep.html' target='_blank'><img src='http://cdn.makeagif.com/media/11-12-2015/ZSdC8a.gif' width='500px'/>Thi công Thiết Kế Karaoke</a>. Thi công Karaoke chuyên nghiệp. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://sofadatphat.com/sofa-phong-khach-b1258725.html' target='_blank'><img src='http://s3.postimg.org/41y39gr3n/khuyen_mai_khung.gif' width='500px'/>Thi công Thiết Kế Karaoke</a>. Thi công Karaoke chuyên nghiệp. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
